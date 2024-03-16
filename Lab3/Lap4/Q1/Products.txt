@@ -1,0 +1,38 @@
+P2000,Laptop,Apple,TechSupplier,2,1500.0
+P2001,Laptop,samsung,TechSupplier,4,1500.0
+P2002,mobile,Apple,mobileTech,0,100.0
+P2003,mobile,Samsung,mobileTech,7,200.0
+P2004,camera,LG,Supplier,9,1570.0
+P2005,camera,Sony,electronicSupplier,10,1560.0
+P2006,Tv,LG,Supplier,21,150.0
+P2007,Tv,Sony,Tech,6,120.0
+LPT-001,MacBook Pro 16-inch,Apple,BestBuy,0,5000.0
+SMT-002,Samsung Galaxy S22,Samsung,Amazon,3,1200.0
+GMC-003,PlayStation 5,Sony,GameStop,4,500.0
+SPK-004,Google Nest Audio,Google,Walmart,12,200.0
+WTCH-005,Fitbit Versa 3,Fitbit,Target,2,150.0
+LPT-001,MacBook Pro 16-inch,Apple,BestBuy,2,5000.0
+SMT-002,Samsung Galaxy S22,Samsung,Amazon,3,1200.0
+GMC-003,PlayStation 5,Sony,GameStop,4,500.0
+SPK-004,Google Nest Audio,Google,Walmart,1,200.0
+WTCH-005,Fitbit Versa 3,Fitbit,Target,2,150.0
+LPT-001,MacBook Pro 16-inch,Apple,BestBuy,2,5000.0
+SMT-002,Samsung Galaxy S22,Samsung,Amazon,3,1200.0
+GMC-003,PlayStation 5,Sony,GameStop,4,500.0
+SPK-004,Google Nest Audio,Google,Walmart,1,200.0
+WTCH-005,Fitbit Versa 3,Fitbit,Target,2,150.0
+LPT-001,MacBook Pro 16-inch,Apple,BestBuy,2,5000.0
+SMT-002,Samsung Galaxy S22,Samsung,Amazon,3,1200.0
+GMC-003,PlayStation 5,Sony,GameStop,4,500.0
+SPK-004,Google Nest Audio,Google,Walmart,1,200.0
+WTCH-005,Fitbit Versa 3,Fitbit,Target,2,150.0
+LPT-001,MacBook Pro 16-inch,Apple,BestBuy,2,5000.0
+SMT-002,Samsung Galaxy S22,Samsung,Amazon,3,1200.0
+GMC-003,PlayStation 5,Sony,GameStop,4,500.0
+SPK-004,Google Nest Audio,Google,Walmart,1,200.0
+WTCH-005,Fitbit Versa 3,Fitbit,Target,2,150.0
+LPT-001,MacBook Pro 16-inch,Apple,BestBuy,2,5000.0
+SMT-002,Samsung Galaxy S22,Samsung,Amazon,3,1200.0
+GMC-003,PlayStation 5,Sony,GameStop,4,500.0
+SPK-004,Google Nest Audio,Google,Walmart,1,200.0
+WTCH-005,Fitbit Versa 3,Fitbit,Target,2,150.0

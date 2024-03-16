@@ -1,0 +1,9 @@
+P2000,Laptop,Apple,TechSupplier,2,1500.0
+P2001,Laptop,samsung,TechSupplier,4,1500.0
+P2002,mobile,Apple,mobileTech,0,100.0
+P2003,mobile,Samsung,mobileTech,7,200.0
+P2004,camera,LG,Supplier,9,1570.0
+P2005,camera,Sony,electronicSupplier,10,1560.0
+P2006,Tv,LG,Supplier,21,150.0
+P2007,Tv,Sony,Tech,6,120.0
+111,dsc,sc,sdc,1,23.0
